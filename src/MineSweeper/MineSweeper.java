@@ -12,6 +12,7 @@ public class MineSweeper {
 		brd = new Board(x, y);
 	}
 
+	//
 	public static void main(String[] args) {
 
 //		int width = Integer.parseInt(args[0]);
